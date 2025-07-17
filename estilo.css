@@ -64,6 +64,7 @@ h1 {
 
     .fruta-card:hover {
         transform: translateY(-5px);
+        background-color: #38e5f5;
     }
 
 .fruta-imagen {
